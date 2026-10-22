@@ -1,0 +1,2028 @@
+PCSA00001	Racing
+PCSA00002	Sports
+PCSA00003	Music,Platformer,Puzzle,Strategy
+PCSA00004	Adventure,Puzzle
+PCSA00006	Arcade,Shooter
+PCSA00007	Sports
+PCSA00009	Arcade,Sports
+PCSA00010	Arcade,Shooter
+PCSA00011	Adventure,RPG
+PCSA00012	Fighting,Simulation
+PCSA00014	Shooter,Strategy
+PCSA00015	Racing
+PCSA00027	Racing
+PCSA00029	Adventure,Platformer,Shooter
+PCSA00034	Racing
+PCSA00036	Puzzle,Strategy
+PCSA00038	Sports
+PCSA00048	Shooter
+PCSA00060	Puzzle
+PCSA00064	Simulation,Sports,Strategy
+PCSA00065	Sports
+PCSA00068	Adventure,Platformer
+PCSA00069	Fighting,Platformer
+PCSA00074	Sports
+PCSA00075	Fighting
+PCSA00079	Puzzle
+PCSA00086	Adventure,Platformer,Shooter,Strategy
+PCSA00087	Simulation,Strategy
+PCSA00088	Other,Strategy
+PCSA00089	Arcade
+PCSA00092	RPG
+PCSA00096	Adventure,Platformer
+PCSA00103	Arcade,Shooter
+PCSA00106	RPG,Strategy
+PCSA00107	Shooter
+PCSA00108	Adventure,Puzzle
+PCSA00109	Arcade
+PCSA00112	RPG,Simulation
+PCSA00113	Music
+PCSA00114	Adventure,Puzzle,Simulation
+PCSA00115	Simulation,Sports
+PCSA00116	Indie,Shooter,Strategy
+PCSA00117	Adventure,Simulation
+PCSA00118	Puzzle,Strategy
+PCSA00122	Strategy
+PCSA00123	Adventure,Indie,Music
+PCSA00127	Action
+PCSA00134	Shooter
+PCSA00135	Puzzle,Simulation
+PCSA00137	Action
+PCSA00138	Puzzle
+PCSA00139	Simulation
+PCSA00140	Arcade,Music
+PCSA00147	RPG,Shooter
+PCSA00148	Music,Simulation
+PCSA00149	Platformer,Puzzle
+PCSA00150	Puzzle,RPG,Strategy
+PCSA00151	Action,Shooter
+PCSA00152	Adventure,RPG
+PCSA00153	Adventure,Platformer,Puzzle
+PCSA00155	RPG
+PCSA00156	Puzzle
+PCSA00158	Adventure,Puzzle
+PCSA00490	Platformer
+PCSA00511	Sports
+PCSA00552	Action,Fighting
+PCSA00798	Platformer,Shooter
+PCSB00025	Indie,Platformer,Puzzle,Simulation
+PCSB00027	Racing,Simulation,Sports
+PCSB00031	Sports
+PCSB00032	Sports
+PCSB00037	Puzzle,Racing
+PCSB00038	Arcade,Platformer,Racing,Simulation,Sports
+PCSB00040	Arcade,Racing
+PCSB00041	RPG
+PCSB00042	Arcade,Fighting
+PCSB00045	Adventure,Platformer,Puzzle
+PCSB00047	Adventure,Puzzle
+PCSB00048	Racing
+PCSB00049	Adventure
+PCSB00050	Strategy
+PCSB00056	Adventure,Indie,Platformer,Puzzle
+PCSB00060	Puzzle
+PCSB00061	Music,Puzzle
+PCSB00065	Platformer,Puzzle
+PCSB00070	Fighting
+PCSB00074	Action,Adventure,Strategy
+PCSB00079	Adventure,Platformer
+PCSB00080	Puzzle,Simulation,Strategy
+PCSB00089	Action
+PCSB00094	Arcade,Simulation,Strategy
+PCSB00096	Indie,Platformer,Puzzle
+PCSB00097	Action,Adventure
+PCSB00098	RPG,Strategy
+PCSB00101	Arcade,Platformer
+PCSB00102	Puzzle
+PCSB00103	Adventure,Platformer,Puzzle
+PCSB00106	Fighting
+PCSB00107	Puzzle
+PCSB00109	Adventure,Other,RPG,Simulation,Strategy
+PCSB00111	Adventure,Indie,Shooter,Strategy
+PCSB00114	Racing
+PCSB00115	Action,Adventure
+PCSB00116	Arcade,Simulation
+PCSB00125	Adventure
+PCSB00126	Fighting,Indie,Music
+PCSB00136	Arcade,Platformer,Sports
+PCSB00144	Arcade,Fighting
+PCSB00160	Other,Simulation,Sports,Strategy
+PCSB00161	Arcade,Indie,Shooter
+PCSB00168	Arcade,Shooter
+PCSB00169	Adventure,Indie,Platformer
+PCSB00176	Adventure,Shooter,Strategy
+PCSB00180	Adventure,Indie,Shooter,Strategy
+PCSB00182	Racing,Sports
+PCSB00183	Racing
+PCSB00184	Puzzle,Strategy
+PCSB00185	Indie,Puzzle,Simulation
+PCSB00186	Adventure,Arcade,Puzzle
+PCSB00189	Action,Adventure,Indie,Platformer,Puzzle
+PCSB00190	Arcade,Racing,Sports
+PCSB00194	Indie,Other,Strategy
+PCSB00203	Adventure,Arcade,Indie,Puzzle,Racing,Shooter
+PCSB00204	Racing,Sports
+PCSB00205	Adventure,Puzzle,Visual Novel
+PCSB00213	Shooter
+PCSB00215	Adventure,Puzzle,Strategy
+PCSB00222	Adventure,Indie,Platformer,Puzzle
+PCSB00226	RPG
+PCSB00229	Adventure,Indie
+PCSB00230	Sports
+PCSB00231	Shooter
+PCSB00232	Shooter
+PCSB00236	Adventure,Indie,Platformer
+PCSB00237	Adventure,Indie,Puzzle
+PCSB00239	Shooter
+PCSB00240	Arcade,Indie,Shooter
+PCSB00241	Music,Other
+PCSB00242	Platformer
+PCSB00244	Arcade,Platformer
+PCSB00245	Adventure,RPG
+PCSB00246	Puzzle
+PCSB00254	Arcade,Simulation
+PCSB00255	Adventure,Indie,Platformer,Shooter
+PCSB00258	Indie,Puzzle,Strategy
+PCSB00264	Strategy
+PCSB00265	Puzzle,Simulation,Sports
+PCSB00272	Adventure,Indie,Platformer,Puzzle
+PCSB00273	Arcade
+PCSB00274	Arcade,Platformer
+PCSB00275	Adventure,Platformer,Strategy
+PCSB00291	RPG
+PCSB00294	Action,Adventure
+PCSB00295	Puzzle,Strategy
+PCSB00296	Fighting
+PCSB00302	Indie,Puzzle,Shooter
+PCSB00303	Arcade
+PCSB00304	Adventure,Platformer
+PCSB00305	Arcade,Platformer
+PCSB00306	Other,Shooter,Strategy
+PCSB00313	Arcade,Strategy
+PCSB00315	Action,Adventure,Puzzle
+PCSB00316	Racing,Simulation,Sports
+PCSB00318	Arcade,Indie,Shooter
+PCSB00320	Other,Puzzle,Strategy
+PCSB00321	Arcade,Indie,Simulation,Strategy
+PCSB00323	Other,Shooter,Simulation,Strategy
+PCSB00324	Action,Adventure,Indie,Platformer,Puzzle,RPG
+PCSB00326	Puzzle,Shooter
+PCSB00328	Arcade,Indie,Shooter
+PCSB00329	Arcade,Indie,Platformer
+PCSB00331	Adventure,Platformer
+PCSB00332	Other
+PCSB00336	Adventure,Indie,Platformer,Puzzle
+PCSB00339	Sports
+PCSB00345	Racing,Simulation
+PCSB00346	Adventure,Visual Novel
+PCSB00353	Action,Adventure,Shooter
+PCSB00355	Shooter
+PCSB00357	Simulation,Sports
+PCSB00358	Adventure,Indie
+PCSB00359	Adventure,Indie,Platformer
+PCSB00360	Adventure,Platformer
+PCSB00361	Adventure,Indie,RPG,Simulation
+PCSB00362	Puzzle
+PCSB00364	Arcade
+PCSB00365	Fighting,Sports
+PCSB00367	Puzzle
+PCSB00370	Adventure,Other,RPG,Strategy
+PCSB00373	Fighting,Indie
+PCSB00374	Puzzle,Strategy
+PCSB00375	Adventure,Indie,Platformer,Puzzle
+PCSB00377	RPG
+PCSB00381	Indie,Puzzle,Shooter,Simulation
+PCSB00382	Adventure,Indie,Platformer
+PCSB00384	Simulation,Strategy
+PCSB00388	Adventure,Indie,Puzzle,Shooter,Strategy
+PCSB00389	Shooter
+PCSB00393	Other,Puzzle,Strategy
+PCSB00394	Adventure,RPG
+PCSB00395	Adventure,RPG
+PCSB00396	Fighting
+PCSB00397	Arcade,Puzzle,Strategy
+PCSB00398	Arcade,Indie,Puzzle,Sports
+PCSB00399	Adventure,Indie,Puzzle
+PCSB00400	Indie,Puzzle
+PCSB00405	Adventure,Indie,Platformer,RPG,Simulation,Strategy
+PCSB00408	Action,RPG
+PCSB00409	Adventure,Arcade,Indie,Platformer,Shooter
+PCSB00410	Arcade,Platformer,Puzzle,Shooter
+PCSB00412	Shooter
+PCSB00413	RPG
+PCSB00416	Arcade,Racing,Simulation,Sports
+PCSB00419	Music
+PCSB00420	Adventure,Arcade,Shooter
+PCSB00421	Platformer,Puzzle
+PCSB00422	Puzzle
+PCSB00428	Action
+PCSB00429	Adventure,RPG,Strategy
+PCSB00432	Adventure,RPG
+PCSB00433	Platformer
+PCSB00436	Sports
+PCSB00439	Puzzle
+PCSB00442	Indie,Puzzle,Strategy
+PCSB00444	Simulation
+PCSB00449	Arcade,Indie,Platformer,Racing,Sports
+PCSB00455	Other,RPG,Simulation,Strategy
+PCSB00456	Adventure,Indie,Platformer,Puzzle
+PCSB00458	Adventure,Platformer
+PCSB00460	RPG
+PCSB00468	Puzzle,Strategy
+PCSB00471	Adventure,RPG
+PCSB00473	RPG,Strategy
+PCSB00474	Indie,Platformer,Racing
+PCSB00475	Adventure,Arcade,Indie,Platformer,Racing,Sports
+PCSB00478	RPG
+PCSB00481	Indie,Strategy
+PCSB00487	Racing,Sports
+PCSB00488	Adventure,Indie,Simulation
+PCSB00489	Adventure,Indie,Platformer,Puzzle,Strategy
+PCSB00491	Adventure,Arcade,Indie,Music,Platformer
+PCSB00494	Arcade,Shooter
+PCSB00496	Indie,Platformer,Racing,Sports
+PCSB00497	RPG
+PCSB00498	Puzzle,Racing,Simulation,Sports
+PCSB00499	Other,Puzzle,RPG,Strategy
+PCSB00500	Adventure,Fighting
+PCSB00502	Adventure,Indie,Platformer,Puzzle
+PCSB00503	Adventure,Puzzle,RPG
+PCSB00504	Adventure,Arcade,Indie,Shooter
+PCSB00505	Arcade,Indie,Shooter
+PCSB00507	Indie,Racing,Simulation
+PCSB00508	Adventure,Arcade,Indie,Platformer,Puzzle,RPG
+PCSB00509	Action
+PCSB00511	Arcade,Indie,Shooter
+PCSB00514	Adventure,Visual Novel
+PCSB00515	Music,RPG,Simulation,Visual Novel
+PCSB00522	Action,Adventure,Arcade,Fighting,Indie
+PCSB00523	Other,Strategy
+PCSB00525	Arcade,Shooter
+PCSB00528	Indie,Shooter
+PCSB00529	Adventure,Arcade,Indie,Puzzle
+PCSB00530	Adventure,Arcade,Indie,Puzzle,Strategy
+PCSB00534	Simulation
+PCSB00539	RPG
+PCSB00540	Indie,Other,Puzzle,Shooter,Strategy
+PCSB00541	Adventure,Other,RPG
+PCSB00542	Adventure,Indie,Platformer,Puzzle
+PCSB00544	Arcade,Puzzle
+PCSB00550	RPG
+PCSB00552	Arcade,Fighting,Shooter
+PCSB00554	Music
+PCSB00556	Indie,Puzzle,Simulation
+PCSB00557	Adventure
+PCSB00560	Adventure,Simulation
+PCSB00561	Arcade,Indie,RPG,Shooter
+PCSB00563	Adventure
+PCSB00564	Arcade,Indie,Shooter
+PCSB00565	Arcade,Platformer
+PCSB00566	Strategy
+PCSB00568	Adventure,Arcade,Platformer
+PCSB00569	Adventure,Puzzle
+PCSB00571	Adventure,Indie,Platformer,Puzzle,RPG
+PCSB00573	Arcade,Racing
+PCSB00574	RPG
+PCSB00575	Action
+PCSB00579	Adventure,Other,RPG,Strategy
+PCSB00580	Adventure,Arcade,Indie,Puzzle
+PCSB00581	Arcade,Indie,RPG,Shooter
+PCSB00582	RPG
+PCSB00583	Action,Fighting
+PCSB00584	Puzzle,Strategy
+PCSB00588	Racing
+PCSB00590	Indie,Platformer,Sports
+PCSB00591	Music,Puzzle
+PCSB00592	Action
+PCSB00594	Other,RPG,Simulation,Strategy
+PCSB00595	Other,RPG,Strategy
+PCSB00596	Arcade,Shooter
+PCSB00598	Adventure,Platformer,RPG
+PCSB00599	RPG
+PCSB00601	Action,Fighting
+PCSB00603	Sports
+PCSB00604	Sports
+PCSB00605	Sports
+PCSB00609	Arcade,Indie,Puzzle,Strategy
+PCSB00610	Indie,Shooter
+PCSB00611	Adventure,Platformer
+PCSB00616	Platformer,Puzzle
+PCSB00618	RPG
+PCSB00619	Adventure,RPG
+PCSB00620	Indie,Platformer,Puzzle
+PCSB00621	Adventure,Indie,Other,RPG
+PCSB00626	Adventure,Other,RPG,Strategy
+PCSB00628	Simulation,Sports
+PCSB00630	Fighting
+PCSB00636	RPG,Simulation,Strategy
+PCSB00638	Shooter
+PCSB00639	Adventure,Arcade
+PCSB00640	Adventure,RPG
+PCSB00641	Adventure,Platformer,Puzzle,Strategy
+PCSB00642	Puzzle
+PCSB00643	Arcade,Indie,Racing
+PCSB00645	Adventure,Arcade,Indie,Puzzle,RPG
+PCSB00646	Adventure,Arcade,Indie,RPG,Shooter
+PCSB00650	Indie,RPG,Shooter
+PCSB00652	Adventure,Arcade,Indie,Shooter
+PCSB00655	Adventure,RPG,Strategy,Visual Novel
+PCSB00656	Indie,Shooter,Simulation
+PCSB00660	Adventure,Arcade,Indie,Puzzle,RPG
+PCSB00661	Arcade,Shooter
+PCSB00662	Adventure,Arcade,Indie,Platformer
+PCSB00663	RPG
+PCSB00664	Arcade
+PCSB00669	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSB00671	Other,Strategy
+PCSB00672	Puzzle,Shooter,Simulation,Strategy
+PCSB00673	Strategy
+PCSB00674	Arcade,Other,Puzzle,Sports,Strategy
+PCSB00675	Strategy
+PCSB00676	Adventure,Arcade,Indie,Puzzle,RPG,Shooter
+PCSB00679	Arcade,Fighting,Indie,Sports
+PCSB00680	Arcade,Indie,Platformer,Puzzle
+PCSB00681	Puzzle,Strategy
+PCSB00682	Adventure,Arcade,Indie,Racing,Shooter
+PCSB00683	Adventure,RPG
+PCSB00684	Adventure,Arcade,Indie,Platformer
+PCSB00687	Adventure,Indie,Puzzle,Visual Novel
+PCSB00690	Adventure,Indie,Platformer,Puzzle
+PCSB00693	Adventure,Indie,Other,RPG,Strategy
+PCSB00694	Adventure,Indie,Platformer,Puzzle
+PCSB00696	Racing,Simulation,Sports
+PCSB00697	Racing,Simulation,Sports
+PCSB00700	Adventure,Other,RPG
+PCSB00701	Other,RPG,Strategy
+PCSB00702	Action,Adventure,Indie,RPG
+PCSB00703	Adventure,Puzzle
+PCSB00704	Action,RPG
+PCSB00705	Adventure,Indie,Platformer,Puzzle
+PCSB00706	Adventure,Puzzle
+PCSB00710	Action,Adventure,RPG
+PCSB00716	Adventure,Platformer
+PCSB00717	Action,Adventure
+PCSB00720	Adventure,Indie,RPG
+PCSB00722	Adventure,Indie,Platformer,Puzzle
+PCSB00727	Adventure,Indie,Platformer,Puzzle,RPG
+PCSB00731	Adventure,Puzzle
+PCSB00733	Indie,Other,Strategy
+PCSB00734	Indie,Music,Shooter
+PCSB00735	Adventure,Indie,Simulation,Visual Novel
+PCSB00740	Visual Novel
+PCSB00741	Arcade,Puzzle
+PCSB00743	Adventure,Indie,Platformer
+PCSB00744	Sports
+PCSB00745	Adventure,Simulation,Visual Novel
+PCSB00746	Other,Simulation,Strategy
+PCSB00747	Adventure,Puzzle
+PCSB00748	Adventure,Indie,Puzzle
+PCSB00751	Adventure,Other,RPG,Strategy
+PCSB00760	Indie,Puzzle
+PCSB00762	Racing,Simulation,Sports
+PCSB00763	Fighting
+PCSB00765	Indie,Puzzle,Shooter,Strategy
+PCSB00766	Indie,Puzzle,Shooter,Strategy
+PCSB00767	Action,Arcade,Fighting,Indie
+PCSB00768	Indie,Platformer
+PCSB00769	Arcade,Shooter
+PCSB00770	Sports
+PCSB00771	Puzzle
+PCSB00772	Arcade,Platformer,Shooter
+PCSB00774	Indie,Puzzle
+PCSB00775	Adventure,Indie,Platformer,Puzzle
+PCSB00776	Sports
+PCSB00778	Adventure,Arcade,Indie,Platformer,RPG
+PCSB00779	Adventure,Indie,Platformer
+PCSB00782	Indie,Platformer,Puzzle
+PCSB00783	Adventure,Indie,Puzzle,Strategy
+PCSB00786	Adventure,Indie,Platformer,Shooter
+PCSB00788	Action,Adventure,Puzzle,Shooter
+PCSB00797	Adventure,Indie,Platformer
+PCSB00798	RPG
+PCSB00799	Puzzle
+PCSB00803	Arcade,Indie,Racing,Simulation,Sports
+PCSB00805	Adventure,Indie,Platformer,Puzzle,Strategy
+PCSB00806	Action,Adventure,Strategy
+PCSB00807	Adventure,Arcade,Indie,Shooter
+PCSB00810	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSB00811	Adventure,Platformer,Puzzle
+PCSB00813	RPG
+PCSB00814	Adventure,Other,RPG,Strategy
+PCSB00822	Adventure,Indie,Puzzle,RPG
+PCSB00825	Adventure,Indie,Platformer,Simulation
+PCSB00826	Arcade,Indie,Shooter
+PCSB00827	Indie,Puzzle,Strategy
+PCSB00828	Action
+PCSB00829	Adventure,RPG,Strategy
+PCSB00830	RPG
+PCSB00835	Adventure,Arcade,Platformer
+PCSB00836	Adventure,Indie,Platformer,Shooter
+PCSB00840	Adventure,Arcade,Fighting,Indie
+PCSB00841	Adventure,Arcade,Indie,Platformer,Puzzle,RPG
+PCSB00842	Shooter
+PCSB00843	Simulation,Strategy
+PCSB00847	Adventure,Visual Novel
+PCSB00848	Adventure,Visual Novel
+PCSB00850	Adventure,Puzzle
+PCSB00851	Adventure,Indie,RPG,Visual Novel
+PCSB00853	Action,Arcade,Indie
+PCSB00858	Adventure,Indie
+PCSB00859	Arcade,Fighting,Indie
+PCSB00861	Adventure,Other,RPG,Strategy
+PCSB00862	Adventure,Arcade,Indie,Platformer,Puzzle,Strategy
+PCSB00863	Arcade,Fighting
+PCSB00866	Adventure,Other,RPG,Strategy
+PCSB00867	Music
+PCSB00869	Arcade,Indie,Platformer
+PCSB00870	Adventure,RPG,Shooter
+PCSB00871	Action,Strategy
+PCSB00872	Adventure,Indie,Platformer,RPG,Strategy
+PCSB00873	Arcade,Indie,Shooter
+PCSB00874	Action,RPG
+PCSB00875	Action,RPG
+PCSB00876	Adventure,Indie,RPG
+PCSB00877	Action,Adventure,Platformer,Puzzle
+PCSB00879	Indie,Puzzle,RPG,Strategy
+PCSB00880	Shooter
+PCSB00881	Adventure,Indie,Platformer
+PCSB00882	Action
+PCSB00884	Shooter
+PCSB00885	Adventure,Platformer,Shooter
+PCSB00887	Arcade,Indie,Puzzle
+PCSB00888	Adventure,Puzzle
+PCSB00889	Indie,Puzzle
+PCSB00891	Arcade,Music
+PCSB00893	Adventure,Fighting
+PCSB00894	Arcade,Indie,Puzzle,Racing,Strategy
+PCSB00896	Arcade,Indie,Racing,Sports
+PCSB00898	Action
+PCSB00899	Adventure
+PCSB00900	Adventure,Indie,Racing,Sports
+PCSB00901	Adventure,Indie,Visual Novel
+PCSB00903	Indie
+PCSB00904	RPG,Simulation,Strategy,Visual Novel
+PCSB00906	Adventure,RPG
+PCSB00907	Action,Strategy
+PCSB00908	Adventure,RPG
+PCSB00911	Indie,Puzzle,Sports
+PCSB00912	Adventure,Arcade,Indie,Shooter
+PCSB00914	Adventure,Arcade,Indie,Shooter
+PCSB00918	Indie,Platformer
+PCSB00919	Adventure,Indie,Music,RPG
+PCSB00921	Action
+PCSB00922	Other,Puzzle,Strategy
+PCSB00923	Indie,Puzzle,RPG
+PCSB00927	Arcade,Fighting
+PCSB00928	Adventure,RPG,Visual Novel
+PCSB00929	Adventure,Arcade,Indie,Platformer,RPG,Simulation,Strategy
+PCSB00931	RPG
+PCSB00933	Arcade
+PCSB00935	Action,Adventure,Indie,Platformer,RPG,Shooter
+PCSB00936	Indie,Platformer,Puzzle
+PCSB00937	Other,Puzzle,RPG,Strategy
+PCSB00938	Racing,Simulation
+PCSB00939	Adventure,Indie,Platformer,Puzzle
+PCSB00940	Adventure,Indie
+PCSB00941	Shooter
+PCSB00942	Adventure,Puzzle,Visual Novel
+PCSB00949	Arcade,Indie,Puzzle
+PCSB00950	Indie,RPG
+PCSB00951	Adventure,RPG,Strategy
+PCSB00952	Adventure,Arcade,Indie,Platformer,Shooter
+PCSB00955	Arcade,Indie,Puzzle,Strategy
+PCSB00956	Adventure,Shooter
+PCSB00958	RPG,Strategy
+PCSB00959	RPG,Strategy
+PCSB00960	RPG,Simulation
+PCSB00961	Puzzle,Strategy
+PCSB00963	Arcade,Fighting,Indie,Platformer,Puzzle
+PCSB00964	Adventure,Indie,Puzzle
+PCSB00967	Platformer,Puzzle
+PCSB00971	Adventure,Indie
+PCSB00973	Adventure,RPG
+PCSB00974	Arcade,Indie,Shooter
+PCSB00975	Action,Adventure,RPG
+PCSB00976	Adventure,Visual Novel
+PCSB00977	RPG
+PCSB00978	Adventure,Arcade,Indie,Puzzle
+PCSB00979	Adventure,Platformer
+PCSB00981	Adventure,RPG
+PCSB00983	Fighting
+PCSB00984	RPG
+PCSB00985	Adventure,Visual Novel
+PCSB00986	RPG
+PCSB00987	Adventure,Strategy
+PCSB00989	RPG
+PCSB00990	Adventure,RPG
+PCSB00992	Arcade,Indie,Strategy
+PCSB00993	Adventure,Platformer
+PCSB00995	RPG
+PCSB00998	Indie,Platformer,RPG
+PCSB01006	Other,RPG,Strategy
+PCSB01007	Music
+PCSB01010	Action,Adventure,Indie,RPG
+PCSB01011	Action,Adventure,Fighting,RPG
+PCSB01016	Adventure,Other,RPG,Strategy
+PCSB01021	Adventure,Platformer
+PCSB01041	Adventure,RPG
+PCSB01045	Adventure,RPG
+PCSB01047	Adventure,Arcade,Indie,Sports
+PCSB01089	Adventure,Indie,Puzzle,RPG
+PCSB01105	Adventure,Arcade,Indie,RPG
+PCSB01110	Adventure,Indie,Platformer
+PCSB01116	Arcade,Indie,Platformer,Racing
+PCSB01141	Adventure,Indie,RPG
+PCSB01156	Arcade,Indie,Platformer,Strategy
+PCSB01159	Arcade,Fighting
+PCSB01175	Adventure,Visual Novel
+PCSB01177	Adventure,Visual Novel
+PCSB01195	RPG
+PCSB01197	Action,RPG
+PCSB01200	Adventure,Visual Novel
+PCSB01208	Adventure,Arcade,Indie,Puzzle,Strategy
+PCSB01222	Arcade,Indie,Other,RPG,Shooter
+PCSB01223	RPG,Strategy
+PCSB01225	Adventure,Platformer
+PCSB01229	Adventure,Indie,RPG,Simulation,Strategy
+PCSB01233	Arcade,Shooter
+PCSB01234	Visual Novel
+PCSB01235	Visual Novel
+PCSB01236	Adventure,Indie
+PCSB01238	Adventure,Indie,RPG,Simulation,Strategy
+PCSB01250	Action,Indie,Platformer
+PCSB01265	Puzzle,Strategy
+PCSB01269	Adventure,Visual Novel
+PCSB01270	Adventure,Visual Novel
+PCSB01276	Adventure,Puzzle
+PCSB01278	Arcade,Indie,Shooter
+PCSB01283	Adventure,Visual Novel
+PCSB01300	Adventure,Arcade,Shooter
+PCSB01305	Adventure,RPG
+PCSB01310	Arcade,Platformer,Shooter
+PCSB01311	Adventure,Arcade,Indie,Platformer,Shooter
+PCSB01316	Adventure,Visual Novel
+PCSB01317	Platformer
+PCSB01319	Indie,Platformer,Puzzle
+PCSB01325	Indie,Platformer,RPG
+PCSB01326	Puzzle
+PCSB01327	Arcade,Fighting,Indie
+PCSB01331	Puzzle
+PCSB01334	Arcade,Indie,Shooter
+PCSB01338	Adventure,Arcade,Platformer,Puzzle
+PCSB01339	Adventure,Arcade,Indie,Shooter
+PCSB01341	Adventure,Indie,RPG
+PCSB01347	Adventure,Indie,Puzzle
+PCSB01348	Platformer,Puzzle
+PCSB01349	Adventure,Arcade,Indie,Platformer
+PCSB01350	Adventure,RPG,Simulation,Strategy
+PCSB01351	Adventure,Indie,Puzzle,RPG,Simulation,Strategy
+PCSB01353	Indie,Other,RPG,Strategy
+PCSB01354	Adventure,Arcade,Indie,Platformer
+PCSB01357	Adventure,Arcade,Indie,Puzzle
+PCSB01359	Adventure,Arcade,Indie,Platformer,Shooter
+PCSB01360	Adventure,Indie,RPG
+PCSB01361	Adventure,Arcade,Indie,Platformer
+PCSB01362	Adventure,Indie
+PCSB01365	Arcade,Indie,Shooter
+PCSB01366	Puzzle,Strategy
+PCSB01367	Puzzle
+PCSB01371	Adventure,Visual Novel
+PCSB01375	Adventure,Arcade,Indie,Racing,Shooter
+PCSB01378	Adventure,Arcade,Indie,Platformer,RPG
+PCSB01379	Adventure,Indie,Platformer,Puzzle,RPG
+PCSB01380	Platformer,Puzzle,Simulation,Strategy
+PCSB01381	Arcade,Indie,Puzzle
+PCSB01382	Adventure,Arcade,Indie,Platformer
+PCSB01387	Adventure,RPG,Simulation,Strategy
+PCSB01388	Puzzle
+PCSB01389	Arcade,Indie
+PCSB01392	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSB01393	Adventure,Arcade,Indie,Platformer
+PCSB01394	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSB01396	Puzzle,Strategy
+PCSB01397	Puzzle
+PCSB01398	Adventure,Arcade,Indie,Puzzle
+PCSB01400	Puzzle,Strategy
+PCSB01401	Puzzle
+PCSB01405	Arcade,RPG,Sports,Strategy
+PCSB01408	Adventure,Indie
+PCSB01409	Adventure,Arcade,Indie,RPG
+PCSB01410	Adventure,Indie,Puzzle
+PCSB01415	Adventure,Indie,RPG,Simulation,Visual Novel
+PCSB01416	Adventure,Indie,Puzzle
+PCSB01417	Arcade,Indie
+PCSB01418	Puzzle
+PCSB01419	Arcade,Indie,Puzzle
+PCSB01420	Adventure,Arcade,Indie,Platformer,Shooter
+PCSB01421	Adventure,Indie,Simulation,Visual Novel
+PCSB01425	Adventure,Simulation,Visual Novel
+PCSB01427	Adventure,Simulation,Visual Novel
+PCSB01429	Adventure,Arcade,Indie,Platformer,Shooter
+PCSB01431	Puzzle,Strategy
+PCSB01432	Puzzle
+PCSB01435	Arcade,Indie,Shooter
+PCSB01437	Adventure,Arcade,Indie,RPG,Shooter
+PCSB01439	Adventure,Arcade,Platformer
+PCSB01442	Arcade,Platformer,Shooter
+PCSB01443	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSB01444	Adventure,Indie,Puzzle
+PCSB01445	Indie,Puzzle
+PCSB01446	Adventure,Indie,Music,Puzzle
+PCSB01450	Adventure,Indie
+PCSB01461	Adventure,Indie,Puzzle,Simulation
+PCSB01462	Adventure,Arcade,Puzzle,Strategy
+PCSB01463	Adventure,Puzzle,Visual Novel
+PCSB01464	Arcade,Indie
+PCSB01465	Adventure,Arcade,Indie,Shooter
+PCSB01466	Arcade,Indie,Shooter
+PCSB01468	Puzzle,Strategy
+PCSB01474	Adventure,Indie,Visual Novel
+PCSB01477	Action
+PCSB01479	Arcade,Indie,Platformer,Shooter
+PCSC00001	Arcade,Sports
+PCSC00002	Adventure,RPG
+PCSC00005	Adventure,Platformer,Shooter
+PCSC00006	Racing
+PCSC00010	Shooter,Strategy
+PCSC00011	Fighting,Simulation
+PCSC00012	Adventure,Puzzle
+PCSC00014	Racing
+PCSC00017	Shooter
+PCSC00019	Sports
+PCSC00022	Shooter
+PCSC00024	Music,Platformer,Puzzle,Strategy
+PCSC00028	Sports
+PCSC00030	RPG,Strategy
+PCSC00032	Fighting,Platformer
+PCSC00034	Fighting
+PCSC00039	RPG
+PCSC00040	Puzzle
+PCSC00041	Adventure,Platformer,Shooter,Strategy
+PCSC00044	Adventure,Puzzle,Simulation
+PCSC00045	Shooter
+PCSC00049	Adventure,RPG
+PCSC00052	Sports
+PCSC00054	RPG,Shooter
+PCSC00056	Indie,Shooter,Strategy
+PCSC00058	Adventure,Simulation
+PCSC00061	Puzzle,Simulation
+PCSC00075	Arcade
+PCSC00077	Adventure,Indie,Music
+PCSC00078	Shooter
+PCSC00079	Action,Shooter
+PCSC00081	Arcade
+PCSC00083	Arcade,Music
+PCSC00084	Adventure,Platformer,Puzzle
+PCSC00085	Adventure,Puzzle
+PCSC00088	Arcade,Shooter
+PCSC00097	Platformer,Puzzle
+PCSC80006	Puzzle
+PCSD00001	Adventure,Platformer,Shooter
+PCSD00003	Adventure,RPG
+PCSD00004	Racing
+PCSD00005	Racing
+PCSD00008	Arcade,Sports
+PCSD00009	Arcade,Shooter
+PCSD00010	Racing
+PCSD00011	Sports
+PCSD00017	Fighting,Simulation
+PCSD00020	Puzzle
+PCSD00027	Music,Platformer,Puzzle,Strategy
+PCSD00035	Adventure,RPG
+PCSD00040	Fighting,Platformer
+PCSD00043	Other,Strategy
+PCSD00049	Puzzle,Strategy
+PCSD00051	Fighting
+PCSD00061	RPG,Strategy
+PCSD00065	RPG
+PCSD00071	Shooter
+PCSD00079	Adventure,RPG
+PCSD00080	Adventure,Puzzle,Simulation
+PCSD00082	Action,Shooter
+PCSD00085	Puzzle,RPG,Strategy
+PCSD00087	RPG,Shooter
+PCSD00090	Platformer
+PCSD00092	Puzzle
+PCSE00001	Racing
+PCSE00002	Racing,Simulation,Sports
+PCSE00003	Sports
+PCSE00004	Fighting
+PCSE00005	Arcade,Fighting
+PCSE00006	Strategy
+PCSE00007	Arcade,Racing
+PCSE00008	RPG
+PCSE00009	Music,Puzzle
+PCSE00011	Action,Adventure
+PCSE00012	Arcade,Fighting
+PCSE00014	Action
+PCSE00015	Adventure
+PCSE00016	Adventure,Puzzle
+PCSE00017	Platformer,Puzzle
+PCSE00018	Arcade,Fighting
+PCSE00019	Action,RPG
+PCSE00021	Action,Adventure
+PCSE00022	RPG,Strategy
+PCSE00023	Fighting
+PCSE00024	Racing
+PCSE00027	Puzzle
+PCSE00029	Puzzle,Racing
+PCSE00033	Action,Adventure,Indie,Platformer,Puzzle
+PCSE00034	Indie,Platformer,Puzzle
+PCSE00038	Indie,Puzzle,Shooter
+PCSE00039	Other,Simulation,Sports,Strategy
+PCSE00041	Sports
+PCSE00042	Indie,Platformer,Puzzle,Simulation
+PCSE00043	Adventure,Indie,Shooter,Strategy
+PCSE00044	Puzzle
+PCSE00047	Puzzle
+PCSE00049	Adventure,Indie,Shooter,Strategy
+PCSE00050	Arcade,Simulation,Strategy
+PCSE00051	Arcade,Platformer,Racing,Simulation,Sports
+PCSE00052	Adventure,Platformer
+PCSE00053	Action,Adventure,Strategy
+PCSE00056	Arcade,Racing,Sports
+PCSE00057	Adventure,Platformer,Puzzle
+PCSE00061	Action,Arcade
+PCSE00062	Platformer
+PCSE00064	Other,Puzzle,Strategy
+PCSE00065	Arcade,Simulation
+PCSE00066	Adventure,Other,RPG,Simulation,Strategy
+PCSE00067	Adventure
+PCSE00068	Racing,Shooter
+PCSE00075	Adventure,Arcade,Indie,Puzzle,Racing,Shooter
+PCSE00078	Adventure,Shooter,Strategy
+PCSE00079	Adventure,Shooter,Strategy
+PCSE00085	Adventure,Puzzle,Visual Novel
+PCSE00086	Puzzle,Simulation,Strategy
+PCSE00087	Action,Arcade
+PCSE00088	Arcade,Platformer,Sports
+PCSE00089	Racing
+PCSE00090	Arcade,Indie,Shooter
+PCSE00091	Arcade,Shooter
+PCSE00092	Adventure,Indie,Platformer
+PCSE00095	Adventure,Arcade,Puzzle
+PCSE00097	Shooter
+PCSE00101	Puzzle
+PCSE00102	Indie,Other,Strategy
+PCSE00103	Adventure,Platformer,Puzzle
+PCSE00108	Puzzle
+PCSE00111	Platformer,Puzzle
+PCSE00112	Adventure,Indie,Platformer,Shooter
+PCSE00113	Fighting,Indie,Music
+PCSE00116	Music,Other
+PCSE00117	Puzzle,Strategy
+PCSE00119	RPG
+PCSE00120	Adventure,RPG
+PCSE00124	Adventure,Puzzle,Strategy
+PCSE00133	Indie,Puzzle,Simulation
+PCSE00137	Arcade,Fighting
+PCSE00143	Indie,Puzzle,Strategy
+PCSE00208	Music
+PCSE00209	Shooter
+PCSE00210	Shooter
+PCSE00212	Adventure,Indie,Puzzle
+PCSE00213	Arcade,Platformer
+PCSE00216	Sports
+PCSE00217	RPG
+PCSE00219	Racing,Sports
+PCSE00220	Strategy
+PCSE00224	Adventure,Indie
+PCSE00225	Puzzle,Simulation,Sports
+PCSE00228	Puzzle,Strategy
+PCSE00229	Arcade
+PCSE00231	RPG
+PCSE00232	Adventure,Indie,Platformer,Puzzle
+PCSE00233	Action,Adventure
+PCSE00235	Fighting
+PCSE00237	Adventure,Platformer
+PCSE00238	Arcade,Platformer
+PCSE00242	Racing,Sports
+PCSE00244	Adventure,RPG
+PCSE00245	RPG
+PCSE00247	Arcade,Indie,Simulation,Strategy
+PCSE00248	Other,Shooter,Strategy
+PCSE00249	Arcade,Indie,Shooter
+PCSE00250	Action,Adventure,Puzzle
+PCSE00252	Arcade,Strategy
+PCSE00254	Other
+PCSE00256	Adventure,Platformer
+PCSE00257	Arcade,Indie,Shooter
+PCSE00258	Adventure,Indie,Platformer,Puzzle
+PCSE00259	Arcade,Indie,Platformer
+PCSE00260	Arcade,Indie,Shooter
+PCSE00261	Adventure,Visual Novel
+PCSE00263	Sports
+PCSE00266	Indie,Strategy
+PCSE00267	Arcade
+PCSE00268	Adventure,Indie,Platformer,Puzzle
+PCSE00269	Action,Adventure,Shooter
+PCSE00272	Arcade
+PCSE00273	Adventure,Other,RPG,Strategy
+PCSE00274	Arcade,Platformer
+PCSE00275	Puzzle,Shooter
+PCSE00277	Adventure,Platformer
+PCSE00278	Simulation,Strategy
+PCSE00279	Arcade,Fighting
+PCSE00282	Puzzle
+PCSE00283	Adventure,RPG
+PCSE00284	Shooter
+PCSE00286	Other
+PCSE00287	Other,Puzzle,Strategy
+PCSE00288	Adventure,Indie,Platformer
+PCSE00290	Adventure,Indie,Platformer,Puzzle
+PCSE00291	Puzzle,Strategy
+PCSE00293	Adventure,RPG
+PCSE00294	Arcade,Puzzle,Strategy
+PCSE00296	RPG
+PCSE00297	Adventure,Indie,Platformer
+PCSE00299	RPG
+PCSE00300	Adventure,RPG
+PCSE00301	Adventure,Indie,RPG,Simulation
+PCSE00302	Adventure,Arcade,Indie,Music,Platformer
+PCSE00305	Fighting
+PCSE00307	Other,Puzzle,Strategy
+PCSE00311	Adventure,Indie
+PCSE00312	Arcade,Indie,Puzzle,Sports
+PCSE00313	Shooter
+PCSE00314	Adventure,RPG,Strategy
+PCSE00315	Indie,Puzzle
+PCSE00317	Adventure,Indie,Platformer,RPG,Simulation,Strategy
+PCSE00321	Adventure,Indie,Puzzle,Shooter,Strategy
+PCSE00323	Arcade,Racing,Simulation,Sports
+PCSE00324	Adventure,Indie,Platformer,Puzzle
+PCSE00325	Fighting,Sports
+PCSE00326	Music
+PCSE00327	Indie,Puzzle,Shooter,Simulation
+PCSE00328	Adventure,Arcade,Shooter
+PCSE00331	Puzzle
+PCSE00332	Platformer
+PCSE00333	Action
+PCSE00340	Adventure,Arcade,Indie,Platformer,Shooter
+PCSE00341	Arcade,Indie,Platformer,Racing,Sports
+PCSE00346	Adventure,Simulation,Visual Novel
+PCSE00348	Simulation
+PCSE00349	Adventure,Arcade,Indie,Platformer
+PCSE00352	Adventure
+PCSE00354	Adventure,Indie,Simulation
+PCSE00358	RPG
+PCSE00359	Adventure,Other,RPG
+PCSE00360	Other,RPG,Simulation,Strategy
+PCSE00362	Shooter
+PCSE00369	Adventure,Platformer,Strategy
+PCSE00370	Puzzle
+PCSE00373	RPG,Strategy
+PCSE00374	Arcade,Platformer,Puzzle,Shooter
+PCSE00376	RPG
+PCSE00380	Adventure,Arcade,Indie,Platformer
+PCSE00381	RPG
+PCSE00383	RPG,Shooter
+PCSE00384	Adventure,Fighting
+PCSE00386	Puzzle,Strategy
+PCSE00387	Adventure,Indie,Platformer,Puzzle,Strategy
+PCSE00388	Adventure,Arcade,Indie,Shooter
+PCSE00389	Arcade,Platformer
+PCSE00390	Adventure,Puzzle,RPG
+PCSE00393	Indie,Platformer,Racing,Sports
+PCSE00394	Adventure,Indie,Platformer,Puzzle
+PCSE00395	Adventure,Arcade,Indie,Platformer,Puzzle,RPG
+PCSE00396	Indie,Puzzle,Strategy
+PCSE00397	Arcade,Shooter
+PCSE00398	Action,Fighting
+PCSE00399	Adventure,Visual Novel
+PCSE00400	Music,RPG,Simulation,Visual Novel
+PCSE00401	Other,Puzzle,RPG,Strategy
+PCSE00402	Arcade,Indie,Shooter
+PCSE00404	Adventure,Indie,Platformer,Puzzle
+PCSE00405	Action
+PCSE00406	Platformer,Puzzle
+PCSE00409	Racing,Simulation,Sports
+PCSE00411	Racing,Simulation
+PCSE00414	Arcade,Indie,Shooter
+PCSE00419	Simulation
+PCSE00420	Adventure,Arcade,Indie,Puzzle,Strategy
+PCSE00421	Indie,Shooter
+PCSE00422	Arcade,Racing
+PCSE00423	Adventure
+PCSE00424	Indie,Other,Puzzle,Shooter,Strategy
+PCSE00427	Fighting
+PCSE00428	Adventure,RPG
+PCSE00429	RPG
+PCSE00430	Adventure,Indie,Platformer,Puzzle
+PCSE00431	Indie,Puzzle,Simulation
+PCSE00432	Arcade,Fighting,Shooter
+PCSE00434	Music
+PCSE00436	Adventure,Arcade,Indie,Puzzle
+PCSE00439	Arcade,Shooter
+PCSE00442	Adventure
+PCSE00443	Adventure,Other,RPG,Strategy
+PCSE00445	Arcade,Indie,RPG,Shooter
+PCSE00446	Arcade,Platformer
+PCSE00447	Adventure,Indie,Other,RPG
+PCSE00448	Action
+PCSE00449	Adventure,Indie,Platformer,Puzzle,RPG
+PCSE00453	Arcade,Indie,RPG,Shooter
+PCSE00454	Adventure,Arcade,Indie,Puzzle
+PCSE00455	Puzzle,Strategy
+PCSE00457	Music,Puzzle
+PCSE00458	Action,Fighting
+PCSE00459	Music,Simulation,Strategy
+PCSE00460	Other,RPG,Simulation,Strategy
+PCSE00461	Arcade,Indie,Racing
+PCSE00463	Arcade,Shooter
+PCSE00465	RPG
+PCSE00466	RPG
+PCSE00467	RPG
+PCSE00468	RPG
+PCSE00472	Adventure,Arcade,Platformer
+PCSE00473	Puzzle,Strategy
+PCSE00477	Indie,Platformer,Racing
+PCSE00478	Adventure,Arcade,Indie,Platformer,Racing,Sports
+PCSE00479	Indie,Platformer,Sports
+PCSE00480	Adventure,Platformer,RPG
+PCSE00481	Sports
+PCSE00482	Sports
+PCSE00484	Action,Adventure,Arcade,Fighting,Indie
+PCSE00485	Adventure,Platformer
+PCSE00486	Indie,RPG,Shooter
+PCSE00487	Arcade,Indie,Puzzle,Strategy
+PCSE00489	Adventure,Indie,Racing,Sports
+PCSE00491	Adventure,Simulation
+PCSE00492	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSE00493	Indie,Racing,Simulation
+PCSE00495	Indie,Shooter
+PCSE00501	Arcade,Indie,Puzzle,Strategy
+PCSE00503	Action
+PCSE00504	Other,Strategy
+PCSE00505	Simulation,Sports
+PCSE00506	Arcade,Shooter
+PCSE00507	Adventure,Arcade,Indie,Puzzle,RPG,Shooter
+PCSE00508	Adventure,Other,RPG,Strategy
+PCSE00509	Adventure,RPG,Strategy,Visual Novel
+PCSE00513	Adventure,Arcade,Indie,Puzzle,RPG
+PCSE00514	Arcade,Fighting,Indie,Sports
+PCSE00516	RPG,Simulation,Strategy
+PCSE00518	Action,RPG
+PCSE00519	Adventure,Arcade,Indie,Platformer
+PCSE00521	Puzzle
+PCSE00525	Adventure,Arcade,Indie,Platformer,Puzzle,Strategy
+PCSE00526	Sports
+PCSE00527	Adventure,Platformer,Puzzle,Strategy
+PCSE00528	Other,Shooter,Simulation,Strategy
+PCSE00529	Puzzle,Racing,Simulation,Sports
+PCSE00533	Adventure,Indie,Puzzle,Visual Novel
+PCSE00534	Adventure,Puzzle
+PCSE00536	RPG
+PCSE00537	Arcade
+PCSE00540	Arcade,Shooter
+PCSE00541	Adventure,Arcade,Indie,Shooter
+PCSE00542	Indie,Strategy
+PCSE00546	Adventure,Arcade,Indie,Racing,Shooter
+PCSE00547	Adventure,Puzzle
+PCSE00548	Arcade,Platformer,Puzzle
+PCSE00551	Racing,Simulation
+PCSE00553	Adventure,Arcade,Indie,Puzzle,RPG
+PCSE00558	Adventure,RPG
+PCSE00559	Adventure,Arcade
+PCSE00561	Arcade,Indie,Platformer,Puzzle
+PCSE00566	Indie,Shooter,Simulation
+PCSE00567	Adventure,Indie,Platformer,Puzzle
+PCSE00568	Other,RPG,Strategy
+PCSE00573	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSE00575	Adventure,Indie,Platformer,Puzzle
+PCSE00576	Arcade,Puzzle
+PCSE00577	Adventure,Platformer
+PCSE00578	RPG
+PCSE00579	Adventure,RPG
+PCSE00582	Adventure,RPG
+PCSE00583	Adventure,Indie,Other,RPG,Strategy
+PCSE00584	Adventure,Other,RPG
+PCSE00585	Puzzle,Strategy
+PCSE00587	Adventure,Puzzle
+PCSE00588	Action,Adventure,RPG
+PCSE00589	Action,Adventure,Indie,RPG
+PCSE00591	Puzzle
+PCSE00594	Music,Puzzle,Strategy
+PCSE00597	Adventure,Indie,RPG
+PCSE00604	Action
+PCSE00606	Arcade,Fighting,Indie
+PCSE00608	Adventure,Shooter
+PCSE00610	Indie,Platformer,Puzzle
+PCSE00612	Indie,Platformer
+PCSE00620	Adventure,Indie,Platformer,Puzzle
+PCSE00623	Adventure,Indie,Platformer,Simulation
+PCSE00627	Adventure,Visual Novel
+PCSE00628	Action,Adventure,Indie,Platformer,Puzzle,RPG
+PCSE00631	Arcade,Indie,Platformer
+PCSE00633	Adventure,Indie,Platformer,Puzzle,RPG
+PCSE00634	Shooter
+PCSE00637	Other,RPG,Strategy
+PCSE00638	Action,Adventure
+PCSE00639	Fighting
+PCSE00640	Adventure,Indie,Platformer
+PCSE00641	RPG,Shooter,Simulation,Strategy
+PCSE00642	Shooter
+PCSE00643	Indie,Music,Shooter
+PCSE00647	Visual Novel
+PCSE00651	Adventure,Indie,Platformer
+PCSE00653	Adventure,Indie,Simulation,Visual Novel
+PCSE00655	Arcade,Shooter
+PCSE00657	Adventure,Indie,Puzzle
+PCSE00658	Adventure,Puzzle
+PCSE00661	Adventure,Other,RPG,Strategy
+PCSE00663	Arcade,Puzzle,Strategy
+PCSE00665	Arcade,Platformer,Shooter
+PCSE00666	Adventure,Arcade,Indie,RPG,Shooter
+PCSE00667	Racing,Simulation,Sports
+PCSE00671	Indie,Puzzle
+PCSE00672	Other,Simulation,Strategy
+PCSE00673	Adventure,Other,RPG,Strategy
+PCSE00674	Sports
+PCSE00676	Adventure,Puzzle
+PCSE00677	Arcade,Fighting
+PCSE00678	Puzzle
+PCSE00680	Indie,Puzzle
+PCSE00681	Sports
+PCSE00682	Indie,Other,Strategy
+PCSE00683	Indie,Platformer,Puzzle
+PCSE00684	Adventure,Arcade,Indie,Platformer,RPG
+PCSE00686	Adventure,Indie,Puzzle,Strategy
+PCSE00687	Puzzle,Shooter,Simulation,Strategy
+PCSE00688	Strategy
+PCSE00689	Action,Arcade,Fighting,Indie
+PCSE00692	Action,Adventure,Puzzle,Shooter
+PCSE00693	RPG
+PCSE00694	Adventure,Indie,Platformer
+PCSE00695	Adventure,Indie
+PCSE00698	Adventure,Indie,Platformer,Shooter
+PCSE00699	Adventure,Indie,Puzzle
+PCSE00702	Arcade,Indie,Racing,Simulation,Sports
+PCSE00705	Adventure,Arcade,Indie,Shooter
+PCSE00706	Adventure,Indie,Platformer,Puzzle,Strategy
+PCSE00707	RPG
+PCSE00708	Adventure,Indie,Puzzle,RPG
+PCSE00709	Indie,Other,Strategy
+PCSE00710	Shooter
+PCSE00712	Arcade,Indie,Racing
+PCSE00714	Action,Adventure,Strategy
+PCSE00716	Action,Arcade,Indie
+PCSE00717	Arcade,Music
+PCSE00724	Adventure,Indie,RPG,Sports,Strategy
+PCSE00726	Adventure,Platformer,Puzzle
+PCSE00732	Arcade,Indie,Racing,Sports
+PCSE00734	Puzzle
+PCSE00736	Strategy
+PCSE00737	Action
+PCSE00740	RPG
+PCSE00741	Arcade,Indie,Puzzle,Racing,Strategy
+PCSE00743	Adventure,RPG,Strategy
+PCSE00747	Indie,Platformer
+PCSE00748	Arcade,Other,Puzzle,Sports,Strategy
+PCSE00749	Puzzle,Strategy
+PCSE00750	Indie,Puzzle,Shooter,Strategy
+PCSE00751	Strategy
+PCSE00752	Other,Strategy
+PCSE00753	Indie,Puzzle,Shooter,Strategy
+PCSE00755	Adventure,Other,RPG,Strategy
+PCSE00760	Indie,Puzzle,Strategy
+PCSE00761	Adventure,Indie,Platformer,Shooter
+PCSE00762	Adventure,Visual Novel
+PCSE00763	Adventure,Visual Novel
+PCSE00764	Music
+PCSE00765	Puzzle
+PCSE00768	Simulation,Strategy
+PCSE00769	Adventure,Indie,Platformer
+PCSE00771	Simulation
+PCSE00773	Indie,RPG
+PCSE00774	Adventure,Indie,Visual Novel
+PCSE00775	Adventure,Puzzle
+PCSE00776	Adventure,Indie,RPG,Visual Novel
+PCSE00780	Indie,Platformer,Puzzle
+PCSE00781	Adventure,Puzzle,Visual Novel
+PCSE00783	Arcade,Puzzle
+PCSE00784	Indie,Puzzle
+PCSE00786	Adventure,Other,RPG,Strategy
+PCSE00787	Action
+PCSE00789	Action,RPG
+PCSE00790	Adventure,Indie,RPG
+PCSE00791	Action,Adventure,Platformer,Puzzle
+PCSE00792	Shooter
+PCSE00793	Arcade,Indie,Shooter
+PCSE00800	Action,Strategy
+PCSE00801	Action,RPG
+PCSE00802	Adventure
+PCSE00805	Platformer,Puzzle
+PCSE00806	Adventure,Indie,Music,RPG
+PCSE00807	Arcade,Indie,Puzzle
+PCSE00808	Adventure,Fighting
+PCSE00812	Action
+PCSE00813	RPG,Simulation,Strategy,Visual Novel
+PCSE00814	Adventure,Indie,Platformer,Puzzle
+PCSE00815	Adventure,Platformer
+PCSE00817	Indie
+PCSE00818	Adventure,RPG
+PCSE00821	Adventure,RPG,Shooter
+PCSE00825	Indie,Puzzle,RPG,Strategy
+PCSE00826	Adventure,RPG
+PCSE00827	Action,Strategy
+PCSE00828	Adventure,Arcade,Indie,Shooter
+PCSE00830	RPG,Strategy
+PCSE00832	Action
+PCSE00834	Indie,Puzzle,Sports
+PCSE00836	Adventure,Arcade,Indie,Shooter
+PCSE00837	Adventure,Indie,Platformer,Puzzle
+PCSE00838	Adventure,Arcade,Platformer,Strategy
+PCSE00839	Adventure,Arcade,Platformer
+PCSE00840	Adventure,Arcade,Indie,Platformer,Puzzle,RPG
+PCSE00841	Indie,Puzzle
+PCSE00843	Adventure,RPG,Visual Novel
+PCSE00844	Other,Puzzle,RPG,Strategy
+PCSE00845	RPG
+PCSE00846	Other,Puzzle,Strategy
+PCSE00847	Adventure,Indie
+PCSE00848	Arcade,Fighting
+PCSE00849	Adventure,Arcade,Indie,Platformer,RPG,Simulation,Strategy
+PCSE00850	Action,Adventure,Indie,Platformer,RPG,Shooter
+PCSE00854	Adventure,Arcade,Fighting,Indie
+PCSE00856	Fighting,Indie,Simulation
+PCSE00857	Adventure,Indie,Platformer,Puzzle
+PCSE00860	Indie,Puzzle,RPG
+PCSE00861	Adventure,Indie,Puzzle
+PCSE00865	Arcade,Indie,Shooter
+PCSE00867	Music
+PCSE00871	RPG,Simulation
+PCSE00872	Adventure,RPG
+PCSE00873	Adventure,Arcade,Indie,Platformer,Shooter
+PCSE00874	Adventure,Platformer,Shooter
+PCSE00875	Arcade,Indie,Puzzle
+PCSE00879	RPG,Strategy
+PCSE00880	Adventure,RPG,Strategy
+PCSE00881	Adventure,Shooter
+PCSE00883	RPG
+PCSE00887	Adventure,Indie,Puzzle
+PCSE00890	Arcade,Fighting,Indie,Platformer,Puzzle
+PCSE00892	Adventure,RPG
+PCSE00894	Shooter
+PCSE00896	Adventure,Other,RPG,Strategy
+PCSE00898	RPG
+PCSE00899	RPG
+PCSE00902	Arcade,Indie,Shooter
+PCSE00904	Adventure,Visual Novel
+PCSE00905	Action,Adventure,RPG
+PCSE00906	Adventure,Platformer
+PCSE00909	Adventure,Strategy
+PCSE00912	Adventure,RPG
+PCSE00915	Fighting
+PCSE00916	RPG
+PCSE00918	Adventure,RPG
+PCSE00924	Adventure,RPG,Strategy,Visual Novel
+PCSE00930	Indie,Platformer,RPG
+PCSE00933	Adventure,Arcade,Indie,Puzzle
+PCSE00938	Other,RPG,Strategy
+PCSE00941	Adventure,Platformer
+PCSE00944	Action,Adventure,Indie,RPG
+PCSE00946	Arcade,Indie,Strategy
+PCSE00948	Action,Adventure,Fighting,RPG
+PCSE00985	Adventure,Other,Puzzle,Strategy
+PCSE01035	Simulation,Strategy
+PCSE01041	Adventure,Music
+PCSE01045	Adventure,Arcade,Indie,Puzzle,Strategy
+PCSE01123	Indie,Puzzle,Strategy
+PCSE01124	Indie,Music,Puzzle,Strategy
+PCSE01125	Adventure,Arcade,Indie,Racing,Shooter
+PCSE01135	Adventure,Indie,Puzzle,RPG
+PCSE01157	Indie,Puzzle,Strategy
+PCSE01198	Arcade,Shooter
+PCSE01226	Arcade,Indie
+PCSE01285	Puzzle,Strategy
+PCSE01318	Adventure,Visual Novel
+PCSE01337	Adventure,RPG
+PCSE01344	Indie,RPG
+PCSE01349	Arcade,Platformer,Shooter
+PCSE01351	Adventure,Arcade,Indie,Platformer,Shooter
+PCSE01369	Arcade,Fighting,Indie
+PCSE01380	Adventure,Indie,RPG
+PCSE01384	Adventure,Arcade,Platformer,Puzzle
+PCSE01386	Adventure,Indie,RPG
+PCSE01387	Adventure,Arcade,Indie,Shooter
+PCSE01388	Adventure,Indie,Puzzle
+PCSE01390	Platformer,Puzzle
+PCSE01391	Indie,Other,RPG,Strategy
+PCSE01394	Puzzle
+PCSE01395	Puzzle,Strategy
+PCSE01396	Arcade,Indie,Shooter
+PCSE01398	Adventure,Arcade,Indie,Puzzle
+PCSE01400	Adventure,Arcade,Indie,Platformer
+PCSE01401	Adventure,Indie,RPG
+PCSE01403	Adventure,Arcade,Indie,Platformer,Shooter
+PCSE01405	Adventure,Indie
+PCSE01407	Adventure,Visual Novel
+PCSE01412	Adventure,Indie,Platformer,Puzzle,RPG
+PCSE01413	Platformer,Puzzle,Simulation,Strategy
+PCSE01414	Arcade,Indie,Puzzle
+PCSE01415	Adventure,Arcade,Indie,Platformer
+PCSE01418	Adventure,RPG,Simulation,Strategy
+PCSE01420	Adventure,Arcade,Indie,Platformer
+PCSE01422	Puzzle
+PCSE01423	Arcade,Indie
+PCSE01425	Adventure,Arcade,Indie,Platformer
+PCSE01426	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSE01428	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSE01430	Puzzle,Strategy
+PCSE01431	Puzzle
+PCSE01432	Adventure,Other,RPG,Simulation,Strategy
+PCSE01433	Adventure,Arcade,Indie,Puzzle
+PCSE01435	Puzzle
+PCSE01440	Arcade,RPG,Sports,Strategy
+PCSE01443	Adventure,Indie
+PCSE01444	Adventure,Arcade,Indie,RPG
+PCSE01445	Adventure,Indie,Puzzle
+PCSE01451	Adventure,Indie,RPG,Simulation,Visual Novel
+PCSE01452	Arcade,Indie
+PCSE01453	Puzzle
+PCSE01454	Arcade,Indie,Puzzle
+PCSE01455	Adventure,Arcade,Indie,Platformer,Shooter
+PCSE01457	Adventure,Indie,Simulation,Visual Novel
+PCSE01461	Adventure,Simulation,Visual Novel
+PCSE01462	Adventure,Simulation,Visual Novel
+PCSE01463	Adventure,Arcade,Indie,Platformer,Shooter
+PCSE01464	Puzzle
+PCSE01465	Puzzle,Strategy
+PCSE01466	Puzzle
+PCSE01467	Adventure,Arcade,Indie,RPG,Shooter
+PCSE01468	Arcade,Indie,Shooter
+PCSE01471	Adventure,Arcade,Platformer
+PCSE01475	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSE01476	Indie,Puzzle
+PCSE01477	Adventure,Indie,Music,Puzzle
+PCSE01479	Adventure,Indie,Puzzle
+PCSE01480	Adventure,Indie,RPG,Simulation
+PCSE01481	Arcade,Shooter
+PCSE01484	Adventure,Indie
+PCSE01487	Arcade,Platformer,Shooter
+PCSE01491	Action,Arcade,Fighting,Indie
+PCSE01492	Puzzle,Strategy
+PCSE01495	Indie,RPG,Simulation,Visual Novel
+PCSE01496	Adventure,Indie,Puzzle,Simulation
+PCSE01497	Arcade,Indie,RPG,Shooter
+PCSE01498	Adventure,Arcade,Puzzle,Strategy
+PCSE01499	Adventure,Puzzle,Visual Novel
+PCSE01500	Adventure,Arcade,Indie,Shooter
+PCSE01501	Puzzle,Strategy
+PCSE01503	Shooter
+PCSE01504	Arcade,Indie,Shooter
+PCSE01505	Adventure,Arcade,Fighting,Indie,Platformer,Shooter
+PCSE01508	Adventure,Indie,RPG,Visual Novel
+PCSE01513	Arcade,Indie,Puzzle,Shooter
+PCSE01515	Action
+PCSE01516	Adventure,Arcade,Indie,Platformer
+PCSE01517	Arcade,Indie,Platformer,Shooter
+PCSF00001	Adventure,Platformer,Shooter
+PCSF00002	Racing
+PCSF00007	Racing
+PCSF00010	Sports
+PCSF00011	Sports
+PCSF00017	Arcade,Shooter
+PCSF00019	Arcade,Shooter
+PCSF00020	Puzzle
+PCSF00022	Fighting,Simulation
+PCSF00023	Adventure,Puzzle
+PCSF00024	Adventure,RPG
+PCSF00030	Shooter
+PCSF00033	Sports
+PCSF00034	Shooter,Strategy
+PCSF00036	Puzzle,Strategy
+PCSF00046	Racing
+PCSF00076	Music,Platformer,Puzzle,Strategy
+PCSF00092	Simulation,Strategy
+PCSF00093	Fighting
+PCSF00105	Other,Puzzle,Strategy
+PCSF00139	Puzzle
+PCSF00145	Simulation,Sports,Strategy
+PCSF00147	Sports
+PCSF00149	Adventure,Puzzle
+PCSF00164	Action
+PCSF00167	Arcade
+PCSF00178	RPG
+PCSF00210	Music
+PCSF00216	Puzzle
+PCSF00220	Other,Strategy
+PCSF00251	Arcade
+PCSF00262	Arcade,Shooter
+PCSF00270	Adventure,Platformer
+PCSF00271	Adventure,Platformer
+PCSF00312	Puzzle,Strategy
+PCSF00349	Adventure,Puzzle,Simulation
+PCSF00351	Music,Simulation
+PCSF00352	RPG,Strategy
+PCSF00354	Action
+PCSF00376	Puzzle
+PCSF00378	Indie,Shooter,Strategy
+PCSF00379	Adventure,Simulation
+PCSF00415	Strategy
+PCSF00427	Action,Shooter
+PCSF00430	Adventure,Indie,Music
+PCSF00435	Adventure,Platformer,Puzzle
+PCSF00440	Puzzle,Simulation
+PCSF00441	Sports
+PCSF00446	RPG,Shooter
+PCSF00465	Shooter
+PCSF00484	Adventure,Platformer,Shooter
+PCSF00486	Adventure,Platformer,Shooter
+PCSF00510	Action,Fighting
+PCSF00531	Puzzle,RPG,Strategy
+PCSF00532	Adventure,RPG
+PCSF00536	RPG
+PCSF00543	RPG,Strategy
+PCSF00562	Platformer
+PCSF00578	Arcade,Music
+PCSF00612	Puzzle
+PCSF00613	Adventure,Puzzle
+PCSF00651	Platformer,Puzzle
+PCSF00718	Platformer,Shooter
+PCSF00728	Adventure,Shooter
+PCSG00001	Racing
+PCSG00002	Action
+PCSG00003	Arcade,Fighting
+PCSG00004	Adventure,RPG
+PCSG00005	RPG,Strategy
+PCSG00006	Simulation,Sports
+PCSG00007	Adventure,Visual Novel
+PCSG00008	RPG
+PCSG00009	RPG
+PCSG00010	Adventure,Visual Novel
+PCSG00011	Fighting
+PCSG00014	Music,Puzzle
+PCSG00015	Adventure,Platformer
+PCSG00017	RPG
+PCSG00018	Adventure,Puzzle
+PCSG00019	Adventure
+PCSG00020	Adventure,Puzzle,Visual Novel
+PCSG00022	Sports
+PCSG00023	Strategy
+PCSG00025	RPG
+PCSG00028	Sports
+PCSG00032	Platformer,Puzzle
+PCSG00033	Action,Adventure
+PCSG00037	Adventure,Puzzle,Strategy
+PCSG00038	Platformer
+PCSG00043	RPG
+PCSG00044	Puzzle
+PCSG00045	Puzzle
+PCSG00049	Action,Adventure
+PCSG00056	Puzzle
+PCSG00057	Music,Other
+PCSG00060	Puzzle
+PCSG00061	Puzzle
+PCSG00062	Adventure
+PCSG00063	Arcade,Fighting
+PCSG00065	Strategy
+PCSG00066	RPG
+PCSG00067	Puzzle
+PCSG00068	Puzzle
+PCSG00069	RPG,Strategy
+PCSG00070	Music
+PCSG00071	Puzzle
+PCSG00074	Music
+PCSG00076	Adventure,RPG
+PCSG00079	Shooter
+PCSG00080	Adventure,Shooter,Strategy
+PCSG00081	Adventure,Shooter,Strategy
+PCSG00083	Puzzle
+PCSG00084	Strategy
+PCSG00085	Puzzle
+PCSG00086	Puzzle
+PCSG00087	Visual Novel
+PCSG00088	Puzzle
+PCSG00094	Puzzle
+PCSG00095	Puzzle
+PCSG00096	Puzzle
+PCSG00097	Puzzle
+PCSG00098	Puzzle
+PCSG00103	Shooter
+PCSG00104	Arcade,Platformer,Sports
+PCSG00105	RPG
+PCSG00106	Racing
+PCSG00111	Other,RPG,Simulation,Strategy
+PCSG00113	Strategy
+PCSG00116	Action,Adventure,Strategy
+PCSG00122	Visual Novel
+PCSG00124	Simulation
+PCSG00125	RPG
+PCSG00126	Action,Shooter
+PCSG00127	RPG
+PCSG00129	Visual Novel
+PCSG00130	Action
+PCSG00131	Arcade,Fighting
+PCSG00132	Strategy
+PCSG00133	Action,Fighting
+PCSG00135	Shooter
+PCSG00136	Adventure,Simulation,Visual Novel
+PCSG00137	Visual Novel
+PCSG00138	Simulation,Strategy
+PCSG00139	Adventure,Simulation
+PCSG00140	Adventure,RPG
+PCSG00141	Action,Adventure,RPG
+PCSG00142	Action,Strategy
+PCSG00146	Adventure,Visual Novel
+PCSG00148	RPG,Strategy
+PCSG00152	Adventure,Visual Novel
+PCSG00155	Puzzle
+PCSG00157	Action,Adventure
+PCSG00159	Adventure,RPG
+PCSG00167	Fighting
+PCSG00169	Visual Novel
+PCSG00172	Adventure,Visual Novel
+PCSG00175	Puzzle
+PCSG00177	Visual Novel
+PCSG00180	Arcade,Fighting
+PCSG00182	RPG,Strategy
+PCSG00184	Adventure,Other,RPG
+PCSG00186	Puzzle
+PCSG00187	Action,RPG
+PCSG00192	Puzzle
+PCSG00193	RPG
+PCSG00195	Adventure,Other,RPG,Strategy
+PCSG00197	RPG
+PCSG00199	Music
+PCSG00200	Adventure,Visual Novel
+PCSG00203	Visual Novel
+PCSG00205	Music
+PCSG00206	Adventure,Visual Novel
+PCSG00207	Sports
+PCSG00208	Adventure,Indie,Platformer,Puzzle
+PCSG00209	Action
+PCSG00212	RPG
+PCSG00213	Fighting
+PCSG00214	Fighting
+PCSG00215	Adventure,Visual Novel
+PCSG00217	Visual Novel
+PCSG00218	Visual Novel
+PCSG00219	Adventure,RPG
+PCSG00220	Adventure,RPG
+PCSG00221	Music,Puzzle
+PCSG00224	Arcade,Puzzle,Strategy
+PCSG00225	Other,RPG,Simulation,Strategy
+PCSG00226	Adventure,Other,RPG,Strategy
+PCSG00229	Adventure,Visual Novel
+PCSG00231	Arcade,Platformer,Racing,Simulation,Sports
+PCSG00232	Adventure,Strategy,Visual Novel
+PCSG00234	Other,RPG,Strategy
+PCSG00240	Adventure,RPG,Shooter
+PCSG00241	RPG,Simulation,Strategy
+PCSG00242	Adventure
+PCSG00245	RPG
+PCSG00247	Visual Novel
+PCSG00251	Action
+PCSG00254	Platformer
+PCSG00261	Action,Adventure,Shooter
+PCSG00262	Strategy
+PCSG00264	Strategy
+PCSG00266	Adventure,Other,RPG,Strategy
+PCSG00268	Shooter
+PCSG00269	Other,Puzzle,Strategy
+PCSG00270	Adventure,Visual Novel
+PCSG00271	Visual Novel
+PCSG00272	Visual Novel
+PCSG00273	Adventure,Visual Novel
+PCSG00274	Adventure,Visual Novel
+PCSG00276	Visual Novel
+PCSG00277	Action,Fighting
+PCSG00278	Action
+PCSG00279	Action
+PCSG00280	RPG
+PCSG00286	Adventure,Indie,Platformer,RPG,Simulation,Strategy
+PCSG00289	RPG
+PCSG00291	Simulation,Strategy,Visual Novel
+PCSG00292	Action,RPG
+PCSG00293	Adventure,RPG,Strategy,Visual Novel
+PCSG00294	RPG
+PCSG00296	Visual Novel
+PCSG00297	Adventure,Visual Novel
+PCSG00298	Adventure,Indie,Puzzle,RPG
+PCSG00302	Adventure,Simulation
+PCSG00304	Other,Puzzle,RPG,Strategy
+PCSG00305	Adventure,Indie
+PCSG00307	Adventure,RPG
+PCSG00309	Adventure,Indie,Puzzle
+PCSG00314	Adventure,Platformer
+PCSG00316	Adventure,Other,RPG,Simulation,Strategy,Visual Novel
+PCSG00328	Fighting
+PCSG00332	Strategy
+PCSG00335	Adventure,Other,RPG,Strategy
+PCSG00336	Visual Novel
+PCSG00339	Shooter
+PCSG00341	Fighting
+PCSG00346	Adventure,Arcade,RPG
+PCSG00347	Adventure,Other,RPG
+PCSG00348	Adventure,Platformer,Puzzle,Strategy
+PCSG00350	Action,RPG
+PCSG00351	Action,Adventure,RPG
+PCSG00352	Adventure,Visual Novel
+PCSG00354	Adventure,Other,RPG,Strategy
+PCSG00355	Music
+PCSG00356	Adventure,Visual Novel
+PCSG00357	Adventure,Simulation,Visual Novel
+PCSG00358	Adventure
+PCSG00361	Shooter
+PCSG00362	Other,Puzzle,RPG,Strategy
+PCSG00363	Adventure,Platformer
+PCSG00364	Music
+PCSG00365	Visual Novel
+PCSG00366	Visual Novel
+PCSG00367	Adventure,Visual Novel
+PCSG00368	Action,Visual Novel
+PCSG00369	Action,Adventure,Indie,Platformer,Puzzle
+PCSG00370	Visual Novel
+PCSG00372	Strategy
+PCSG00373	Strategy
+PCSG00376	Racing,Simulation
+PCSG00378	Adventure,Visual Novel
+PCSG00379	RPG
+PCSG00380	Adventure,Simulation,Visual Novel
+PCSG00381	Adventure,Visual Novel
+PCSG00382	Visual Novel
+PCSG00386	Adventure,Visual Novel
+PCSG00387	Adventure,RPG
+PCSG00388	Music
+PCSG00391	Puzzle
+PCSG00392	Action,Visual Novel
+PCSG00394	Action,Adventure,RPG
+PCSG00400	RPG,Shooter
+PCSG00402	Adventure,Visual Novel
+PCSG00404	Sports
+PCSG00405	Visual Novel
+PCSG00406	RPG
+PCSG00407	RPG
+PCSG00408	Adventure,Platformer,RPG
+PCSG00409	RPG,Strategy
+PCSG00412	Action,Shooter
+PCSG00414	Visual Novel
+PCSG00415	Adventure,Visual Novel
+PCSG00416	Sports
+PCSG00419	Strategy
+PCSG00420	Adventure,Visual Novel
+PCSG00421	Adventure,Visual Novel
+PCSG00425	Music,Visual Novel
+PCSG00426	Visual Novel
+PCSG00427	Strategy
+PCSG00428	Adventure,Visual Novel
+PCSG00429	Adventure,Visual Novel
+PCSG00431	Adventure,Visual Novel
+PCSG00434	Adventure,Visual Novel
+PCSG00435	Adventure,Visual Novel
+PCSG00436	Fighting,Indie
+PCSG00438	Adventure,Indie,Platformer,Puzzle
+PCSG00442	Simulation
+PCSG00443	Arcade,Shooter
+PCSG00444	Other,RPG
+PCSG00448	Music,Visual Novel
+PCSG00450	Visual Novel
+PCSG00451	Adventure,Indie,Music,Visual Novel
+PCSG00452	Action,Strategy
+PCSG00455	RPG
+PCSG00460	RPG
+PCSG00461	Adventure,Indie,RPG
+PCSG00463	Adventure,Visual Novel
+PCSG00465	RPG
+PCSG00466	Adventure,Strategy,Visual Novel
+PCSG00469	Adventure,Visual Novel
+PCSG00470	Adventure,Visual Novel
+PCSG00471	Action,Adventure,Strategy
+PCSG00472	Visual Novel
+PCSG00473	Other,Shooter,Simulation,Strategy
+PCSG00474	RPG,Strategy
+PCSG00475	Adventure
+PCSG00476	Visual Novel
+PCSG00477	Adventure,Visual Novel
+PCSG00478	Visual Novel
+PCSG00480	Adventure
+PCSG00482	Adventure,Visual Novel
+PCSG00483	Action,Adventure,Indie,Platformer,Puzzle,RPG
+PCSG00484	Adventure,Indie,Platformer,Puzzle
+PCSG00487	Visual Novel
+PCSG00488	Other,RPG
+PCSG00489	Other,RPG
+PCSG00490	Other,RPG
+PCSG00491	Sports,Visual Novel
+PCSG00493	Adventure,Visual Novel
+PCSG00494	Strategy
+PCSG00495	Other
+PCSG00496	Visual Novel
+PCSG00498	RPG
+PCSG00499	RPG
+PCSG00500	RPG
+PCSG00501	Visual Novel
+PCSG00503	Arcade,Fighting
+PCSG00505	Adventure,Visual Novel
+PCSG00506	Visual Novel
+PCSG00508	Adventure,Visual Novel
+PCSG00509	Adventure,Visual Novel
+PCSG00512	RPG
+PCSG00513	Adventure,Indie,Platformer,Puzzle
+PCSG00514	Adventure,RPG
+PCSG00515	RPG,Simulation,Strategy,Visual Novel
+PCSG00516	Adventure,Other,RPG,Strategy
+PCSG00519	Adventure,Simulation,Visual Novel
+PCSG00522	Adventure,RPG
+PCSG00524	RPG
+PCSG00527	Action
+PCSG00528	Adventure,Visual Novel
+PCSG00530	Adventure,Visual Novel
+PCSG00531	RPG,Simulation
+PCSG00532	Action,RPG
+PCSG00533	Puzzle
+PCSG00536	RPG
+PCSG00537	Action,Arcade,Fighting,Indie
+PCSG00538	Indie,Puzzle
+PCSG00539	Visual Novel
+PCSG00540	Adventure,Visual Novel
+PCSG00542	RPG,Visual Novel
+PCSG00543	Adventure,Visual Novel
+PCSG00544	Action,Adventure
+PCSG00547	Visual Novel
+PCSG00550	RPG
+PCSG00551	Music
+PCSG00552	Adventure,RPG,Visual Novel
+PCSG00553	Visual Novel
+PCSG00554	Indie,Platformer,Puzzle
+PCSG00555	Adventure,Visual Novel
+PCSG00558	Adventure,Indie,Shooter,Strategy
+PCSG00559	Visual Novel
+PCSG00563	Adventure,RPG
+PCSG00564	Arcade,Fighting,Shooter
+PCSG00568	Shooter
+PCSG00569	RPG,Strategy
+PCSG00572	Adventure
+PCSG00577	Adventure,Simulation,Visual Novel
+PCSG00578	Action
+PCSG00579	Strategy
+PCSG00581	Adventure,Platformer
+PCSG00582	Arcade,Fighting
+PCSG00583	Arcade,Fighting,Indie
+PCSG00584	Adventure,Visual Novel
+PCSG00588	Other,Simulation,Strategy
+PCSG00590	Visual Novel
+PCSG00591	Adventure,Visual Novel
+PCSG00592	Visual Novel
+PCSG00593	Shooter
+PCSG00594	Adventure,Shooter
+PCSG00599	Adventure,Visual Novel
+PCSG00601	Arcade,Indie,Shooter
+PCSG00606	Adventure,RPG
+PCSG00608	RPG
+PCSG00610	Music
+PCSG00611	Visual Novel
+PCSG00613	Arcade,Platformer,Shooter
+PCSG00615	Adventure,RPG
+PCSG00616	Adventure,Arcade,Indie,Puzzle,RPG
+PCSG00617	Other,RPG,Strategy,Visual Novel
+PCSG00622	Adventure,Indie,Platformer,Puzzle,RPG
+PCSG00631	Adventure,Visual Novel
+PCSG00632	Action,Adventure,Fighting,RPG
+PCSG00633	Action
+PCSG00637	Strategy
+PCSG00639	Adventure,Visual Novel
+PCSG00640	Adventure,Visual Novel
+PCSG00644	RPG
+PCSG00645	Arcade,Music
+PCSG00647	Adventure,Fighting
+PCSG00649	Sports
+PCSG00650	Visual Novel
+PCSG00651	Music
+PCSG00652	Adventure,Indie,Platformer,RPG,Shooter
+PCSG00656	Adventure,Visual Novel
+PCSG00657	RPG,Simulation,Strategy
+PCSG00659	Arcade,Indie,Shooter
+PCSG00663	Adventure,Visual Novel
+PCSG00664	Adventure,Visual Novel
+PCSG00666	Visual Novel
+PCSG00668	Adventure,Visual Novel
+PCSG00669	Adventure,Strategy
+PCSG00672	Adventure,Platformer
+PCSG00673	Adventure,Visual Novel
+PCSG00675	Action,RPG
+PCSG00679	RPG
+PCSG00680	Shooter
+PCSG00681	RPG
+PCSG00683	Music
+PCSG00684	Strategy
+PCSG00685	Adventure,Music
+PCSG00687	RPG
+PCSG00689	Simulation,Visual Novel
+PCSG00692	Action,Strategy
+PCSG00693	Adventure,RPG
+PCSG00694	Adventure,RPG
+PCSG00696	Adventure,Simulation,Strategy,Visual Novel
+PCSG00697	Adventure,RPG
+PCSG00699	Adventure,Shooter
+PCSG00700	Adventure,Visual Novel
+PCSG00704	Indie,Platformer,Shooter
+PCSG00708	Adventure,Visual Novel
+PCSG00709	Adventure,RPG,Strategy
+PCSG00711	Adventure,Puzzle
+PCSG00712	Adventure,Puzzle,RPG
+PCSG00714	RPG
+PCSG00718	Visual Novel
+PCSG00719	Action,RPG
+PCSG00726	Visual Novel
+PCSG00729	RPG
+PCSG00732	Visual Novel
+PCSG00733	Visual Novel
+PCSG00735	Visual Novel
+PCSG00736	Visual Novel
+PCSG00738	Fighting
+PCSG00739	Adventure,Visual Novel
+PCSG00740	Adventure,Arcade,Indie,Puzzle,RPG,Shooter
+PCSG00741	Strategy
+PCSG00742	Adventure,Visual Novel
+PCSG00743	Adventure,Fighting
+PCSG00745	Visual Novel
+PCSG00747	Adventure,Puzzle,Visual Novel
+PCSG00748	Sports
+PCSG00750	RPG
+PCSG00751	Visual Novel
+PCSG00756	Adventure,RPG
+PCSG00758	Fighting
+PCSG00759	Action,Adventure,RPG
+PCSG00760	Action
+PCSG00761	Visual Novel
+PCSG00764	Action,RPG
+PCSG00766	Adventure,Visual Novel
+PCSG00769	Visual Novel
+PCSG00770	Visual Novel
+PCSG00771	Sports
+PCSG00774	Music,RPG,Visual Novel
+PCSG00775	Platformer
+PCSG00776	Visual Novel
+PCSG00777	Visual Novel
+PCSG00779	Other,Strategy
+PCSG00780	RPG,Visual Novel
+PCSG00783	Indie,RPG,Shooter
+PCSG00784	Adventure,Puzzle
+PCSG00785	Visual Novel
+PCSG00787	Adventure,Visual Novel
+PCSG00788	Adventure,Indie,Music,RPG
+PCSG00791	RPG,Simulation
+PCSG00792	RPG
+PCSG00794	Visual Novel
+PCSG00798	Adventure,Indie,Puzzle,RPG
+PCSG00799	Adventure,Indie,Puzzle
+PCSG00801	Adventure,Visual Novel
+PCSG00807	Adventure,RPG,Visual Novel
+PCSG00812	Adventure,Visual Novel
+PCSG00813	Adventure,Indie,Platformer
+PCSG00817	Adventure,Visual Novel
+PCSG00818	Adventure,Indie,Platformer,Shooter
+PCSG00820	Action,RPG
+PCSG00821	Adventure,RPG
+PCSG00822	Visual Novel
+PCSG00826	Visual Novel
+PCSG00827	Other,RPG,Strategy
+PCSG00829	Music,Visual Novel
+PCSG00830	RPG
+PCSG00832	Other
+PCSG00837	Adventure,Indie,Platformer
+PCSG00844	Arcade,Fighting
+PCSG00845	Adventure,Visual Novel
+PCSG00849	Adventure,RPG
+PCSG00850	Visual Novel
+PCSG00851	Adventure,Platformer,Puzzle,Strategy
+PCSG00852	Visual Novel
+PCSG00860	Visual Novel
+PCSG00863	Other,Simulation,Strategy,Visual Novel
+PCSG00866	Adventure,Visual Novel
+PCSG00867	Fighting
+PCSG00870	RPG
+PCSG00872	Adventure,Puzzle
+PCSG00874	Adventure,Indie
+PCSG00876	Adventure,Visual Novel
+PCSG00878	RPG
+PCSG00879	Adventure,Indie,Platformer,Shooter
+PCSG00881	Adventure,RPG
+PCSG00882	RPG
+PCSG00891	Adventure,RPG,Strategy,Visual Novel
+PCSG00892	Adventure,RPG
+PCSG00896	Adventure,Visual Novel
+PCSG00897	Adventure,Simulation,Visual Novel
+PCSG00905	Visual Novel
+PCSG00906	Visual Novel
+PCSG00907	Visual Novel
+PCSG00913	Visual Novel
+PCSG00914	Music,Simulation,Visual Novel
+PCSG00926	Adventure,Visual Novel
+PCSG00928	Adventure,Fighting
+PCSG00931	Visual Novel
+PCSG00940	Adventure,Simulation,Visual Novel
+PCSG00941	Visual Novel
+PCSG00943	Action
+PCSG00944	Adventure,Visual Novel
+PCSG00954	Action
+PCSG00963	Visual Novel
+PCSG00965	Visual Novel
+PCSG00966	Adventure,Visual Novel
+PCSG00969	Adventure,Visual Novel
+PCSG00970	Visual Novel
+PCSG01002	Adventure,RPG
+PCSG01004	Visual Novel
+PCSG01008	Music,Visual Novel
+PCSG01018	Action
+PCSG01022	Adventure,Indie,Platformer,Puzzle,Strategy
+PCSG01035	Action,Arcade
+PCSG01038	Visual Novel
+PCSG01040	Adventure,Arcade,Indie,Shooter
+PCSG01064	Visual Novel
+PCSG01072	Adventure,Indie,Simulation,Visual Novel
+PCSG01091	Action
+PCSG01096	Visual Novel
+PCSG01098	Adventure,Arcade,Indie,RPG
+PCSG01101	Arcade,Fighting
+PCSG01120	Visual Novel
+PCSG01122	Visual Novel
+PCSG01127	Adventure,Visual Novel
+PCSG01128	Other,RPG,Simulation
+PCSG01132	Visual Novel
+PCSG01139	Visual Novel
+PCSG01146	Adventure,Indie,RPG,Simulation,Strategy
+PCSG01151	Visual Novel
+PCSG01165	Adventure,Indie,Visual Novel
+PCSG01167	Adventure,Visual Novel
+PCSG01169	Adventure,Indie,RPG,Strategy
+PCSG01174	Racing,Simulation
+PCSG01185	Visual Novel
+PCSG01194	Visual Novel
+PCSG01197	Visual Novel
+PCSG01203	Visual Novel
+PCSG01213	Visual Novel
+PCSG01221	Visual Novel
+PCSG01226	Adventure,Indie,RPG,Simulation,Strategy
+PCSG01229	Visual Novel
+PCSG01234	Adventure,RPG
+PCSG01236	Adventure,Arcade,Shooter
+PCSG01246	Adventure,Other,RPG,Strategy
+PCSG01248	Sports
+PCSG01249	Adventure,Visual Novel
+PCSG01250	Adventure,Visual Novel
+PCSG01251	Adventure,Arcade,Indie,Platformer,RPG
+PCSG01254	Visual Novel
+PCSG01257	Action,Adventure,Arcade,Fighting,Indie,RPG
+PCSG01266	Adventure,Simulation,Visual Novel
+PCSG01267	Adventure,Visual Novel
+PCSG01270	Puzzle,Strategy
+PCSG01277	Adventure,Indie,RPG,Visual Novel
+PCSG01282	Adventure,Visual Novel
+PCSG01284	Adventure,Simulation,Visual Novel
+PCSG01289	Adventure,Visual Novel
+PCSG01291	Adventure,Indie,Platformer
+PCSG01295	Arcade,Indie,Shooter
+PCSG01297	Simulation
+PCSG01298	Adventure,Other,RPG,Simulation,Strategy
+PCSG01307	Adventure,Arcade,Indie,RPG
+PCSG01313	Arcade,Indie,Platformer
+PCSG01316	Adventure,Arcade,Indie,Platformer
+PCSG01319	Puzzle,Strategy
+PCSG01321	Adventure,Indie,Platformer,RPG
+PCSG01323	Arcade,Indie,Shooter
+PCSG01326	Arcade,Shooter
+PCSG01328	Adventure,Indie,Puzzle
+PCSG01330	Arcade,Indie,Shooter
+PCSG01331	Adventure,Arcade,Indie,Shooter
+PCSG01332	Action,Arcade,Fighting,Indie
+PCSG01336	Arcade,Indie,Platformer,Shooter
+PCSH00001	Adventure
+PCSH00003	Action
+PCSH00006	Puzzle
+PCSH00021	Adventure,RPG
+PCSH00024	Adventure,Indie,Platformer,Shooter
+PCSH00032	Action
+PCSH00034	Action,Strategy
+PCSH00044	Adventure,RPG
+PCSH00045	RPG
+PCSH00050	Action,RPG
+PCSH00054	Action
+PCSH00055	Adventure,Visual Novel
+PCSH00057	Adventure,RPG
+PCSH00058	Action
+PCSH00063	Adventure,Visual Novel
+PCSH00070	RPG
+PCSH00071	Adventure
+PCSH00074	Adventure,Other,RPG,Strategy
+PCSH00087	Other,Simulation,Strategy
+PCSH00088	Music
+PCSH00099	Puzzle
+PCSH00103	RPG
+PCSH00108	Adventure,Arcade,RPG
+PCSH00127	Adventure,Indie,Platformer,Shooter
+PCSH00132	Action,Shooter
+PCSH00133	Action,RPG
+PCSH00134	RPG
+PCSH00142	Fighting
+PCSH00143	Action,Adventure,RPG
+PCSH00145	Action,Adventure
+PCSH00152	Action,Adventure,Strategy
+PCSH00157	RPG
+PCSH00161	Arcade,Fighting
+PCSH00162	Action
+PCSH00164	Action
+PCSH00165	Adventure,Visual Novel
+PCSH00166	Adventure,Indie,Puzzle,RPG
+PCSH00167	Arcade,Music
+PCSH00171	Other,Simulation,Strategy
+PCSH00173	Adventure,Other,RPG,Strategy
+PCSH00176	Music
+PCSH00178	Other,RPG
+PCSH00181	RPG
+PCSH00199	Action,RPG
+PCSH00202	Adventure,Fighting
+PCSH00203	RPG,Simulation,Strategy,Visual Novel
+PCSH00204	Action,Adventure,Puzzle,Shooter
+PCSH00205	Arcade,Platformer
+PCSH00210	Adventure,Indie,Platformer,Puzzle
+PCSH00211	Music
+PCSH00218	RPG
+PCSH00220	Adventure,RPG
+PCSH00221	Adventure,RPG
+PCSH00236	Action
+PCSH00247	Adventure,Indie,Platformer,Puzzle
+PCSH00250	Sports
+PCSH00253	Action
+PCSH00254	Action,RPG
+PCSH00258	Adventure,RPG
+PCSH00259	Adventure,Visual Novel
+PCSH00268	Adventure,Platformer,Puzzle,Strategy
+PCSH00279	Action
+PCSH00289	Adventure,RPG,Strategy,Visual Novel
+PCSH00297	Adventure,RPG
+PCSH00298	Action,RPG
+PCSH10032	Adventure,RPG,Strategy,Visual Novel
+PCSH10041	Action,Arcade
+PCSH10043	Adventure,RPG,Strategy
+PCSH10053	Adventure,Visual Novel
+PCSH10097	Arcade,Indie,Platformer
+PCSH10137	Adventure,Arcade,Indie,Puzzle,Strategy
+PCSH10138	Adventure,Arcade,RPG
+PCSH10140	Adventure,Arcade,Indie,RPG
+PCSH10143	Arcade,Platformer,Shooter
+PCSH10149	Adventure,Arcade,Fighting,Indie
+PCSH10150	Arcade,Indie,Shooter
+PCSH10152	Arcade,Fighting,Indie
+PCSH10155	Indie,Music,Puzzle,Strategy
+PCSH10156	Indie,Puzzle,Strategy
+PCSH10157	Arcade,Indie,Music,Puzzle
+PCSH10158	Music,Puzzle
+PCSH10161	Adventure,Arcade,Indie,Puzzle
+PCSH10162	Adventure,Indie,RPG
+PCSH10163	Adventure,Arcade,Indie,Platformer
+PCSH10165	Adventure,Arcade,Indie,Platformer,Shooter
+PCSH10166	Puzzle,Strategy
+PCSH10167	Puzzle
+PCSH10168	Puzzle,Strategy
+PCSH10171	Puzzle,Strategy
+PCSH10172	Puzzle
+PCSH10173	Puzzle,Strategy
+PCSH10174	Puzzle,Strategy
+PCSH10175	Puzzle
+PCSH10177	Other,RPG,Strategy
+PCSH10179	Puzzle
+PCSH10180	Puzzle,Strategy
+PCSH10181	Adventure,Arcade,Indie,Platformer
+PCSH10182	Arcade,Indie,Puzzle
+PCSH10183	Adventure,Arcade,Indie,Platformer
+PCSH10185	Puzzle
+PCSH10186	Adventure,Arcade,Indie,Music,Platformer
+PCSH10194	Arcade,RPG,Sports,Strategy
+PCSH10195	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSH10200	Adventure,Arcade,Indie,Puzzle
+PCSH10201	Arcade,Indie,Shooter
+PCSH10202	Adventure,Indie,RPG,Simulation,Visual Novel
+PCSH10203	Adventure,Arcade,Platformer,Puzzle
+PCSH10208	Puzzle,Strategy
+PCSH10211	Puzzle
+PCSH10214	Puzzle
+PCSH10215	Adventure,Indie,Puzzle,Visual Novel
+PCSH10218	Adventure,Indie
+PCSH10221	Arcade,Indie,Platformer,Racing
+PCSH10224	Adventure,Arcade,Indie,Platformer
+PCSH10228	Puzzle
+PCSH10229	Adventure,Arcade,Indie,RPG
+PCSH10235	Adventure,Indie,Simulation,Visual Novel
+PCSH10238	Puzzle,Strategy
+PCSH10239	Puzzle
+PCSH10240	Puzzle
+PCSH10242	Arcade,Fighting,Indie,Puzzle
+PCSH10243	Adventure,Arcade,Indie,Platformer,Puzzle
+PCSH10248	Arcade,Indie,Shooter
+PCSH10250	Arcade,Indie
+PCSH10252	Adventure,Arcade,Indie,RPG,Shooter
+PCSH10257	Adventure,Arcade,Indie,Platformer,RPG
+PCSH10260	Adventure,Indie,Puzzle
+PCSH10261	Adventure,Arcade,Indie,RPG,Shooter
+PCSH10270	Puzzle,Strategy
+PCSH10285	Adventure,Arcade,Puzzle,Strategy
+PCSH10290	Adventure,Indie,Platformer
+PCSH10294	Adventure,Arcade,Indie,Platformer
+PCSH10295	Adventure,Indie,Simulation
+PCSH10296	Adventure,Indie,Platformer
+PCSH10299	Adventure,Arcade,Indie,Shooter
+PCSH10302	Adventure,Puzzle,Visual Novel
+PCSH10304	Arcade,Indie,Shooter
+PCSH10320	Arcade,Indie,Platformer,Shooter
