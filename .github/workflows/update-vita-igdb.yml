@@ -1,0 +1,108 @@
+name: Update PS Vita IGDB catalog and artwork
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Sunday 04:00 Singapore time (Saturday 20:00 UTC).
+    - cron: '0 20 * * 6'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vita-igdb-catalog
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    steps:
+      - name: Check IGDB credentials
+        env:
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
+        run: |
+          if [[ -z "$IGDB_CLIENT_ID" || -z "$IGDB_CLIENT_SECRET" ]]; then
+            echo "::error::Add IGDB_CLIENT_ID and IGDB_CLIENT_SECRET to this repository's Actions secrets."
+            exit 1
+          fi
+
+      - name: Check out VitaGamesBrowser-Data
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install image library
+        run: python -m pip install --disable-pip-version-check pillow
+
+      - name: Test catalog and cover generators
+        run: |
+          python -m unittest discover -s tests -p 'test_igdb_vita.py' -v
+          python -m unittest discover -s tests -p 'test_icon_packs.py' -v
+          python -m unittest discover -s tests -p 'test_switch_packs.py' -v
+
+      - name: Generate PS Vita catalog and artwork
+        env:
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
+        run: |
+          python tools/generate_vita_igdb_packs.py \
+            --output generated/vita \
+            --public-url https://raw.githubusercontent.com/ShockStabber13/VitaGamesBrowser-Data/main/vita
+
+      - name: Validate output before publishing
+        shell: bash
+        run: |
+          set -euo pipefail
+          for name in packs.tsv genres.tsv igdb-vita-games.json igdb-library.tsv covers-index.tsv covers-manifest.json; do
+            test -s "generated/vita/$name"
+          done
+          test "$(find generated/vita -maxdepth 1 -name 'covers-??.pack' | wc -l)" -eq 16
+          compgen -G 'generated/vita/vita-icons-*.zip' > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          old = Path("vita")
+          new = Path("generated/vita")
+          def lines(path):
+              return sum(bool(line.strip()) for line in path.open(encoding="utf-8"))
+          old_catalog = old / "igdb-library.tsv"
+          new_count = lines(new / "igdb-library.tsv")
+          if old_catalog.exists() and new_count < lines(old_catalog) * 0.85:
+              raise SystemExit(f"Refusing suspicious catalog shrink: {new_count} titles")
+          new_covers = json.loads((new / "covers-manifest.json").read_text())["imageCount"]
+          old_covers = old / "covers-manifest.json"
+          if old_covers.exists():
+              prior = json.loads(old_covers.read_text())["imageCount"]
+              if new_covers < prior * 0.85:
+                  raise SystemExit(f"Refusing suspicious cover loss: {new_covers} images")
+          print(f"Validated {new_count} IGDB games and {new_covers} cover images")
+          PY
+
+      - name: Publish updated data to this repository
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p vita
+          rm -f vita/vita-icons-*.zip
+          cp generated/vita/vita-icons-*.zip vita/
+          cp generated/vita/packs.tsv vita/
+          cp generated/vita/genres.tsv vita/
+          cp generated/vita/igdb-vita-games.json vita/
+          cp generated/vita/igdb-library.tsv vita/
+          cp generated/vita/covers-??.pack vita/
+          cp generated/vita/covers-index.tsv vita/
+          cp generated/vita/covers-manifest.json vita/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- vita/
+          if git diff --cached --quiet; then
+            echo "Vita catalog and artwork are unchanged."
+          else
+            git commit -m "Refresh PS Vita IGDB catalog and artwork"
+            git push origin HEAD:main
+          fi
